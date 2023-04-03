@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:loader_overlay/loader_overlay.dart';
 import 'package:text_recognition_machine_test/main.dart';
 import 'package:google_mlkit_text_recognition/google_mlkit_text_recognition.dart';
-import 'package:text_recognition_machine_test/screens/services/common_widgets.dart';
+import 'package:text_recognition_machine_test/services/common_widgets.dart';
 import 'package:text_recognition_machine_test/screens/text_showing_page.dart';
 
 class CameraPage extends StatefulWidget {
